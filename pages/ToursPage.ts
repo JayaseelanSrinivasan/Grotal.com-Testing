@@ -9,7 +9,7 @@ export class ToursPage extends BasePage {
  
   async openToursAndTravelsCategory() {
     await this.page.goto('https://www.grotal.com/');
-    await this.page.locator(locators.tours.category).click();
+    await this.click(locators.tours.category)
     await this.page.locator(locators.tours.submenuContainer).scrollIntoViewIfNeeded();
   }
  

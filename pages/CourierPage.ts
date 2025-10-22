@@ -9,13 +9,13 @@ export class CourierPage extends BasePage {
 
   async navigateToBulkCourierServices() {
     await this.page.goto('https://www.grotal.com/');
-    await this.page.locator(locators.courier.categoryXPath).click();
-    await this.page.getByText('Bulk Courier Services').click();
-    await this.page.waitForSelector(locators.courier.resultRow);
+    await this.click(locators.courier.categoryXPath);
+    await this.page.getByText(locators.courier.bulk).click();
+    await this.waitFor(locators.courier.resultRow);
   }
 
   async validateBulkCourierResults(): Promise<void> {
-    const resultRows = await this.page.locator(locators.courier.resultRow).allInnerTexts();
+    const resultRows =await this.getAllTexts(locators.courier.resultRow);
     const filteredResults = resultRows.filter(text => !text.includes('Sponsored Links'));
 
     console.log('Bulk Courier Services Results:\n');

@@ -15,13 +15,12 @@ export class CarWashPage extends BasePage {
  
     await this.click(locators.carwash.searchInput);
     await this.fill(locators.carwash.searchInput, service);
-    await this.page.getByRole('button', { name: 'Search' }).click();
- 
+    await this.page.getByRole('button', { name: locators.carwash.searchButton }).click();
     await this.waitFor(locators.carwash.resultsContainer);
   }
  
   async extractServiceDetails(): Promise<void> {
-    const results = await this.page.locator(locators.carwash.resultsContainer).innerText();
+    const results =await this.getText(locators.carwash.resultsContainer);
     console.log(results);
   }
 }

@@ -1,0 +1,415 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic:
+    - generic: /wEPDwUKMjEwNjE3NTk1NGRk2uKc/UaAFNPin/gmrWx37U5RwvkLagnI6OIMDcnrQsM=
+  - generic:
+    - generic: 4273742C
+  - generic: "1"
+  - generic: "0"
+  - generic:
+    - navigation [ref=e3]:
+      - generic:
+        - list [ref=e4]:
+          - list [ref=e5]:
+            - listitem [ref=e6]:
+              - link "Home" [ref=e7]:
+                - /url: https://www.grotal.com/
+            - listitem [ref=e8]:
+              - link "Education" [ref=e9]:
+                - /url: https://www.grotal.com/Education
+            - listitem [ref=e10]:
+              - link "Tolet" [ref=e11]:
+                - /url: https://www.grotal.com/Chandigarh/ToLet-C1A0T1P1
+            - listitem [ref=e12]:
+              - link "Classifieds" [ref=e13]:
+                - /url: https://www.grotal.com/Grotal-Classified-Ad-Delhi-S1
+            - listitem [ref=e14]:
+              - link "Blogs" [ref=e15]:
+                - /url: https://www.grotal.com/Blog/
+            - listitem [ref=e16]:
+              - link "Jobs/Results" [ref=e17]:
+                - /url: https://www.grotal.com/ExamResults.aspx
+            - listitem [ref=e18]:
+              - link "Health" [ref=e19]:
+                - /url: javascript:void(0);
+              - img [ref=e20]
+            - listitem [ref=e21] [cursor=pointer]: More
+            - listitem [ref=e22]:
+              - link [ref=e23]:
+                - /url: https://www.seasiainfotech.com/Helpline_Mohali.apk
+                - img [ref=e24]
+        - list [ref=e25]:
+          - listitem [ref=e26]:
+            - link "Login" [ref=e27]:
+              - /url: https://www.grotal.com/UserAccount/UserLogin.aspx
+          - listitem [ref=e28]:
+            - link "Help" [ref=e29]:
+              - /url: https://www.grotal.com/UserAccount/popup.aspx
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - textbox [ref=e32] [cursor=pointer]: Chandigarh
+        - list [ref=e33]:
+          - listitem [ref=e34]: Face Of Modern India
+          - listitem [ref=e35]:
+            - link "Location And Climate" [ref=e36]:
+              - /url: Location-And-Climate
+          - listitem [ref=e37]:
+            - link "Explore Chandigarh" [ref=e38]:
+              - /url: Explore-Chandigarh
+          - listitem [ref=e39]:
+            - link "Art and Culture" [ref=e40]:
+              - /url: Art-and-Culture
+          - listitem [ref=e41]:
+            - link "Foods" [ref=e42]:
+              - /url: Foods
+          - listitem [ref=e43]:
+            - link "Sukhna Lake" [ref=e44]:
+              - /url: Sukhna-Lake
+          - listitem [ref=e45]:
+            - link "Rose Garden" [ref=e46]:
+              - /url: Rose-Garden
+          - listitem [ref=e47]:
+            - link "Rock Garden" [ref=e48]:
+              - /url: Rock-Garden
+          - listitem [ref=e49]:
+            - link "Markets and Malls" [ref=e50]:
+              - /url: Markets-and-Malls
+          - listitem [ref=e51]:
+            - link "Places Around Chandigarh" [ref=e52]:
+              - /url: Places-Around-Chandigarh
+          - listitem [ref=e53]:
+            - link "Kasauli" [ref=e54]:
+              - /url: Kasauli
+          - listitem [ref=e55]:
+            - link "Education" [ref=e56]:
+              - /url: Education
+          - listitem [ref=e57]:
+            - link "Getting Around" [ref=e58]:
+              - /url: Getting-Around
+          - listitem [ref=e59]:
+            - link "Getting There" [ref=e60]:
+              - /url: Getting-There
+          - listitem [ref=e61]:
+            - link "Volvo Bus Schedule" [ref=e62]:
+              - /url: Volvo-Bus-Schedule
+          - listitem [ref=e63]:
+            - link "Railways Schedule" [ref=e64]:
+              - /url: Railways-Schedule
+          - listitem [ref=e65]:
+            - link "Airways Schedule" [ref=e66]:
+              - /url: Airways-Schedule
+          - listitem [ref=e67]:
+            - link "Plan a Wedding" [ref=e68]:
+              - /url: Plan-a-Wedding
+          - listitem [ref=e69]:
+            - link "Chandigarh Water Supply Complaints" [ref=e70]:
+              - /url: Chandigarh-Water-Supply-Complaints
+          - listitem [ref=e71]:
+            - link "24 Hours HelpLine Numbers" [ref=e72]:
+              - /url: 24-Hours-HelpLine-Numbers
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e76]: Sponsored Links
+          - insertion [ref=e77]:
+            - iframe [ref=e79]:
+              - generic [ref=f1e3]:
+                - table [ref=f1e5]:
+                  - rowgroup [ref=f1e6]:
+                    - row [ref=f1e7]:
+                      - cell [ref=f1e8]:
+                        - img [ref=f1e9]
+                - table [ref=f1e10]:
+                  - rowgroup [ref=f1e11]:
+                    - row [ref=f1e12]:
+                      - cell [ref=f1e13]:
+                        - generic [ref=f1e14]: D22
+                        - table [ref=f1e15]:
+                          - rowgroup [ref=f1e16]:
+                            - row "Sorry, you don't have permission to visit this site." [ref=f1e17]:
+                              - cell "Sorry, you don't have permission to visit this site." [ref=f1e18]: Sorry, you don't have permission to visit this site.
+                            - row [ref=f1e20]:
+                              - cell [ref=f1e21]:
+                                - separator [ref=f1e22]
+                            - 'row "Access to these types of URLs is provided on business or project justification. PROHIBITED ACTIVITIES: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content. Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients. Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes." [ref=f1e23]':
+                              - 'cell "Access to these types of URLs is provided on business or project justification. PROHIBITED ACTIVITIES: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content. Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients. Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes." [ref=f1e24]':
+                                - generic [ref=f1e26]:
+                                  - paragraph [ref=f1e27]: Access to these types of URLs is provided on business or project justification.
+                                  - heading "PROHIBITED ACTIVITIES:" [level=2] [ref=f1e28]
+                                  - list [ref=f1e29]:
+                                    - listitem [ref=f1e30]: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content.
+                                    - listitem [ref=f1e31]: Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients.
+                                    - listitem [ref=f1e32]: Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes.
+                            - row "Not allowed to browse Advertising category" [ref=f1e33]:
+                              - cell "Not allowed to browse Advertising category" [ref=f1e34]
+                            - row "You tried to visit:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f1e35]:
+                              - cell "You tried to visit:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f1e36]:
+                                - text: "You tried to visit:"
+                                - link "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f1e38] [cursor=pointer]:
+                                  - /url: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=html&h=280&slotname=4807504606&adk=2737561964&adf=2125955911&pi=t.ma~as.4807504606&w=947&fwrn=4&fwrnh=100&lmt=1760623378&rafmt=1&format=947x280&url=https%3A%2F%2Fwww.grotal.com%2FI%2FChandigarh%2F0&fwr=0&rpe=1&resp_fmts=3&wgl=1&aieuf=1&abgtt=9&dt=1760623377501&bpp=11&bdt=1590&idt=552&shv=r20251014&mjsv=m202510130101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&correlator=2313168419806&frm=20&pv=2&u_tz=330&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=2&adx=269&ady=75&biw=1280&bih=720&scr_x=0&scr_y=0&eid=31095210%2C31095217%2C95373013%2C95373975%2C95374047&oid=2&pvsid=3761521586421170&tmod=1035616489&uas=3&nvt=1&ref=https%3A%2F%2Fwww.grotal.com%2F&fc=896&brdim=130%2C130%2C130%2C130%2C1280%2C0%2C1296%2C759%2C1280%2C720&vis=1&rsz=%7C%7CEe%7C&abl=CS&pfx=0&fu=128&bc=31&bz=1.01&ifi=1&uci=a!1&fsb=1&dtd=1581
+                            - row [ref=f1e39]:
+                              - cell [ref=f1e40]:
+                                - separator [ref=f1e41]
+                            - 'row "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f1e42]':
+                              - 'cell "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f1e43]':
+                                - 'link "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f1e44] [cursor=pointer]':
+                                  - /url: https://ctsccprod.service-now.com/ss?id=sc_cat_item&sys_id=7d3799fb97c95d104ce8b8d3f153afd8&sysparm_category=b6b879d71b23cd90826d42a6bc4bcb3d?url=https%3a%2f%2fgoogleads%2eg%2edoubleclick%2enet%2fpagead%2fads%3fclient%3dca%2dpub%2d0803530076129388%26output%3dhtml%26h%3d280%26slotname%3d4807504606%26adk%3d2737561964%26adf%3d2125955911%26pi%3dt%2ema%7eas%2e4807504606%26w%3d947%26fwrn%3d4%26fwrnh%3d100%26lmt%3d1760623378%26rafmt%3d1%26format%3d947x280%26url%3dhttps%253A%252F%252Fwww%2egrotal%2ecom%252FI%252FChandigarh%252F0%26fwr%3d0%26rpe%3d1%26resp%5ffmts%3d3%26wgl%3d1%26aieuf%3d1%26abgtt%3d9%26dt%3d1760623377501%26bpp%3d11%26bdt%3d1590%26idt%3d552%26shv%3dr20251014%26mjsv%3dm202510130101%26ptt%3d9%26saldr%3daa%26abxe%3d1%26cookie%5fenabled%3d1%26eoidce%3d1%26correlator%3d2313168419806%26frm%3d20%26pv%3d2%26u%5ftz%3d330%26u%5fhis%3d3%26u%5fh%3d720%26u%5fw%3d1280%26u%5fah%3d720%26u%5faw%3d1280%26u%5fcd%3d24%26u%5fsd%3d2%26adx%3d269%26ady%3d75%26biw%3d1280%26bih%3d720%26scr%5fx%3d0%26scr%5fy%3d0%26eid%3d31095210%252C31095217%252C95373013%252C95373975%252C95374047%26oid%3d2%26pvsid%3d3761521586421170%26tmod%3d1035616489%26uas%3d3%26nvt%3d1%26ref%3dhttps%253A%252F%252Fwww%2egrotal%2ecom%252F%26fc%3d896%26brdim%3d130%252C130%252C130%252C130%252C1280%252C0%252C1296%252C759%252C1280%252C720%26vis%3d1%26rsz%3d%257C%257CEe%257C%26abl%3dCS%26pfx%3d0%26fu%3d128%26bc%3d31%26bz%3d1%2e01%26ifi%3d1%26uci%3da%211%26fsb%3d1%26dtd%3d1581&referer=https%3a%2f%2fwww%2egrotal%2ecom%2f&reason=Not+allowed+to+browse+Advertising+category&reasoncode=CATEGORY_DENIED&timebound=1&action=deny&kind=&rule=tQ0vDvVdndj1FsTf0sZNn1vrs77W4TnvNdP3BPF&cat=Advertising&user=2438065@cognizant.com&locid=00000000&lang=en_US&zsq=tQ0vDvVdndj1FsTf0sZNn1vrs77W4TnvNdP3BPFzsq
+                                  - generic [ref=f1e45]:
+                                    - heading "Security Exception" [level=2] [ref=f1e46]
+                                    - list [ref=f1e47]:
+                                      - listitem [ref=f1e48]: If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below.
+                                      - listitem [ref=f1e49]: "Category: Security Exception"
+                                      - listitem [ref=f1e50]: "Service: CS_Corporate Security"
+                                      - listitem [ref=f1e51]: "Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)."
+                            - row "See our internet use policy." [ref=f1e52]:
+                              - cell "See our internet use policy." [ref=f1e53]:
+                                - link "See our internet use policy." [ref=f1e54] [cursor=pointer]:
+                                  - /url: https://cognizantonline.sharepoint.com/:b:/r/sites/CorporateFunctions/Shared%20Documents/Legal%20Folder/Global%20Corporate%20Policies/Global%20Policies/aup-policy.pdf?csf=1&web=1&e=2sejbq
+                            - row "Need help? Contact our support team at noreply@cognizant.com" [ref=f1e55]:
+                              - cell "Need help? Contact our support team at noreply@cognizant.com" [ref=f1e56]:
+                                - text: Need help? Contact our support team at
+                                - link "noreply@cognizant.com" [ref=f1e57] [cursor=pointer]:
+                                  - /url: mailto:noreply@cognizant.com
+                            - row
+        - heading "Face Of Modern India Chandigarh" [level=1] [ref=e82]
+        - generic [ref=e83]:
+          - generic [ref=e84]:
+            - generic [ref=e85]:
+              - text: In Chandigarh some people begin their day with the sweet smell of roses. On the other hand youngsters Drives around the Geri-Route, and some people like to spend their evening at the Sukhna Lake Chandigarh. The children play hide and seek in the narrow valleys of the Rock Garden, and for the couples it’s an evening in Sector 17 Plaza. The prosperous City of Chandigarh is known for its clean and green face. This is the town where you Can buy a tee-shirt in sector 17 for Rs 3000 and also a complete suit at Amartex in just Rs 1400. Here the grandeur of
+              - link "Hotel Taj in Chandigarh" [ref=e86]:
+                - /url: http://www.grotal.com/Chandigarh/Hotel-Taj-C1/
+              - text: has Dinner for two in Rs 10,000, and a Dhaba in sector 26 serves a thali for just Rs 30.
+              - text: This City of contrasts, Chandigarh, was ideated by Pt. Jawaharlal Nehru and structure by a French Architect Le Corbusier. And quality of life unparallel to any other town of modern India makes Chandigarh an ideal work destination, attracting people from all over India. Chandi Mandir, the Temple of goddess of Power ‘Chandi’ and a fort-‘garh’ lying beyond the Temple gave the City its name. Tranquility, which is the keyword of the city, nullifies the Concepts of a modernistic civilization. It is only here that modernization co-exists with nature’s preservation. With the advent of the IT Park in Chandigarh and 5 star architectures under construction, congestion here has risen.
+              - text: Yes there is traffic, but there is also the famous lake and the hills around swim about in the mist, and weather is almost chilly and there’s a promise of quilted romance and hot tea at night in the air. Picturesquely located at the foothills of Shivalik, this Union territory of Chandigarh Stands on the border of Punjab and Haryana, and also serves as the capital of the two.
+              - strong [ref=e87]: "Related Links:"
+            - list [ref=e88]:
+              - listitem [ref=e89]:
+                - link "Shopping Malls in Chandigarh" [ref=e90]:
+                  - /url: http://www.grotal.com/Chandigarh/Shopping-Malls-C1/
+              - listitem [ref=e91]:
+                - link "IT Companies in Chandigarh" [ref=e92]:
+                  - /url: http://www.grotal.com/Chandigarh/IT-Companies-C1/
+              - listitem [ref=e93]:
+                - link "PG in Chandigarh" [ref=e94]:
+                  - /url: http://www.grotal.com/Chandigarh/PG-C1A0T2P1
+          - generic [ref=e95]: Sponsored Links
+          - insertion [ref=e96]:
+            - iframe [ref=e98]:
+              - generic [ref=f2e3]:
+                - table [ref=f2e5]:
+                  - rowgroup [ref=f2e6]:
+                    - row [ref=f2e7]:
+                      - cell [ref=f2e8]:
+                        - img [ref=f2e9]
+                - table [ref=f2e10]:
+                  - rowgroup [ref=f2e11]:
+                    - row [ref=f2e12]:
+                      - cell [ref=f2e13]:
+                        - generic [ref=f2e14]: D22
+                        - table [ref=f2e15]:
+                          - rowgroup [ref=f2e16]:
+                            - row "Sorry, you don't have permission to visit this site." [ref=f2e17]:
+                              - cell "Sorry, you don't have permission to visit this site." [ref=f2e18]: Sorry, you don't have permission to visit this site.
+                            - row [ref=f2e20]:
+                              - cell [ref=f2e21]:
+                                - separator [ref=f2e22]
+                            - 'row "Access to these types of URLs is provided on business or project justification. PROHIBITED ACTIVITIES: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content. Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients. Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes." [ref=f2e23]':
+                              - 'cell "Access to these types of URLs is provided on business or project justification. PROHIBITED ACTIVITIES: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content. Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients. Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes." [ref=f2e24]':
+                                - generic [ref=f2e26]:
+                                  - paragraph [ref=f2e27]: Access to these types of URLs is provided on business or project justification.
+                                  - heading "PROHIBITED ACTIVITIES:" [level=2] [ref=f2e28]
+                                  - list [ref=f2e29]:
+                                    - listitem [ref=f2e30]: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content.
+                                    - listitem [ref=f2e31]: Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients.
+                                    - listitem [ref=f2e32]: Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes.
+                            - row "Not allowed to browse Advertising category" [ref=f2e33]:
+                              - cell "Not allowed to browse Advertising category" [ref=f2e34]
+                            - row "You tried to visit:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f2e35]:
+                              - cell "You tried to visit:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f2e36]:
+                                - text: "You tried to visit:"
+                                - link "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f2e38] [cursor=pointer]:
+                                  - /url: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=html&h=280&slotname=2640309401&adk=4138653124&adf=2621581285&pi=t.ma~as.2640309401&w=947&fwrn=4&fwrnh=100&lmt=1760623379&rafmt=1&format=947x280&url=https%3A%2F%2Fwww.grotal.com%2FI%2FChandigarh%2F0&fwr=0&rpe=1&resp_fmts=3&wgl=1&aieuf=1&abgtt=9&dt=1760623377512&bpp=5&bdt=1600&idt=1642&shv=r20251014&mjsv=m202510130101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=947x280&correlator=2313168419806&frm=20&pv=1&u_tz=330&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=2&adx=271&ady=909&biw=1280&bih=720&scr_x=0&scr_y=0&eid=31095210%2C31095217%2C95373013%2C95373975%2C95374047&oid=2&pvsid=3761521586421170&tmod=1035616489&uas=3&nvt=1&ref=https%3A%2F%2Fwww.grotal.com%2F&fc=896&brdim=130%2C130%2C130%2C130%2C1280%2C0%2C1296%2C759%2C1280%2C720&vis=1&rsz=%7C%7CEebr%7C&abl=CS&pfx=0&fu=128&bc=31&bz=1.01&ifi=2&uci=a!2&btvi=1&fsb=1&dtd=2248
+                            - row [ref=f2e39]:
+                              - cell [ref=f2e40]:
+                                - separator [ref=f2e41]
+                            - 'row "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f2e42]':
+                              - 'cell "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f2e43]':
+                                - 'link "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f2e44] [cursor=pointer]':
+                                  - /url: https://ctsccprod.service-now.com/ss?id=sc_cat_item&sys_id=7d3799fb97c95d104ce8b8d3f153afd8&sysparm_category=b6b879d71b23cd90826d42a6bc4bcb3d?url=https%3a%2f%2fgoogleads%2eg%2edoubleclick%2enet%2fpagead%2fads%3fclient%3dca%2dpub%2d0803530076129388%26output%3dhtml%26h%3d280%26slotname%3d2640309401%26adk%3d4138653124%26adf%3d2621581285%26pi%3dt%2ema%7eas%2e2640309401%26w%3d947%26fwrn%3d4%26fwrnh%3d100%26lmt%3d1760623379%26rafmt%3d1%26format%3d947x280%26url%3dhttps%253A%252F%252Fwww%2egrotal%2ecom%252FI%252FChandigarh%252F0%26fwr%3d0%26rpe%3d1%26resp%5ffmts%3d3%26wgl%3d1%26aieuf%3d1%26abgtt%3d9%26dt%3d1760623377512%26bpp%3d5%26bdt%3d1600%26idt%3d1642%26shv%3dr20251014%26mjsv%3dm202510130101%26ptt%3d9%26saldr%3daa%26abxe%3d1%26cookie%5fenabled%3d1%26eoidce%3d1%26prev%5ffmts%3d947x280%26correlator%3d2313168419806%26frm%3d20%26pv%3d1%26u%5ftz%3d330%26u%5fhis%3d3%26u%5fh%3d720%26u%5fw%3d1280%26u%5fah%3d720%26u%5faw%3d1280%26u%5fcd%3d24%26u%5fsd%3d2%26adx%3d271%26ady%3d909%26biw%3d1280%26bih%3d720%26scr%5fx%3d0%26scr%5fy%3d0%26eid%3d31095210%252C31095217%252C95373013%252C95373975%252C95374047%26oid%3d2%26pvsid%3d3761521586421170%26tmod%3d1035616489%26uas%3d3%26nvt%3d1%26ref%3dhttps%253A%252F%252Fwww%2egrotal%2ecom%252F%26fc%3d896%26brdim%3d130%252C130%252C130%252C130%252C1280%252C0%252C1296%252C759%252C1280%252C720%26vis%3d1%26rsz%3d%257C%257CEebr%257C%26abl%3dCS%26pfx%3d0%26fu%3d128%26bc%3d31%26bz%3d1%2e01%26ifi%3d2%26uci%3da%212%26btvi%3d1%26fsb%3d1%26dtd%3d2248&referer=https%3a%2f%2fwww%2egrotal%2ecom%2f&reason=Not+allowed+to+browse+Advertising+category&reasoncode=CATEGORY_DENIED&timebound=1&action=deny&kind=&rule=tQ0vDvVdndj1FsTf0sZNn1vrs77W4TnvNdP3BPF&cat=Advertising&user=2438065@cognizant.com&locid=00000000&lang=en_US&zsq=tQ0vDvVdndj1FsTf0sZNn1vrs77W4TnvNdP3BPFzsq
+                                  - generic [ref=f2e45]:
+                                    - heading "Security Exception" [level=2] [ref=f2e46]
+                                    - list [ref=f2e47]:
+                                      - listitem [ref=f2e48]: If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below.
+                                      - listitem [ref=f2e49]: "Category: Security Exception"
+                                      - listitem [ref=f2e50]: "Service: CS_Corporate Security"
+                                      - listitem [ref=f2e51]: "Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)."
+                            - row "See our internet use policy." [ref=f2e52]:
+                              - cell "See our internet use policy." [ref=f2e53]:
+                                - link "See our internet use policy." [ref=f2e54] [cursor=pointer]:
+                                  - /url: https://cognizantonline.sharepoint.com/:b:/r/sites/CorporateFunctions/Shared%20Documents/Legal%20Folder/Global%20Corporate%20Policies/Global%20Policies/aup-policy.pdf?csf=1&web=1&e=2sejbq
+                            - row "Need help? Contact our support team at noreply@cognizant.com" [ref=f2e55]:
+                              - cell "Need help? Contact our support team at noreply@cognizant.com" [ref=f2e56]:
+                                - text: Need help? Contact our support team at
+                                - link "noreply@cognizant.com" [ref=f2e57] [cursor=pointer]:
+                                  - /url: mailto:noreply@cognizant.com
+                            - row
+          - generic [ref=e99]: Sponsored Links
+          - insertion [ref=e100]:
+            - iframe [ref=e102]:
+              - generic [ref=f3e3]:
+                - table [ref=f3e5]:
+                  - rowgroup [ref=f3e6]:
+                    - row [ref=f3e7]:
+                      - cell [ref=f3e8]:
+                        - img [ref=f3e9]
+                - table [ref=f3e10]:
+                  - rowgroup [ref=f3e11]:
+                    - row [ref=f3e12]:
+                      - cell [ref=f3e13]:
+                        - generic [ref=f3e14]: D22
+                        - table [ref=f3e15]:
+                          - rowgroup [ref=f3e16]:
+                            - row "Sorry, you don't have permission to visit this site." [ref=f3e17]:
+                              - cell "Sorry, you don't have permission to visit this site." [ref=f3e18]: Sorry, you don't have permission to visit this site.
+                            - row [ref=f3e20]:
+                              - cell [ref=f3e21]:
+                                - separator [ref=f3e22]
+                            - 'row "Access to these types of URLs is provided on business or project justification. PROHIBITED ACTIVITIES: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content. Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients. Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes." [ref=f3e23]':
+                              - 'cell "Access to these types of URLs is provided on business or project justification. PROHIBITED ACTIVITIES: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content. Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients. Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes." [ref=f3e24]':
+                                - generic [ref=f3e26]:
+                                  - paragraph [ref=f3e27]: Access to these types of URLs is provided on business or project justification.
+                                  - heading "PROHIBITED ACTIVITIES:" [level=2] [ref=f3e28]
+                                  - list [ref=f3e29]:
+                                    - listitem [ref=f3e30]: Access, download, transmit or display offensive, sexually explicit, profane, racist, defamatory or unlawful content.
+                                    - listitem [ref=f3e31]: Use groups, mailing lists, blogs and other forums on the internet to inappropriately disclose information about or discuss matters related to Cognizant or clients.
+                                    - listitem [ref=f3e32]: Use high-bandwidth related applications such as streaming media, internet radio, etc. for non-business purposes.
+                            - row "Not allowed to browse Advertising category" [ref=f3e33]:
+                              - cell "Not allowed to browse Advertising category" [ref=f3e34]
+                            - row "You tried to visit:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f3e35]:
+                              - cell "You tried to visit:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f3e36]:
+                                - text: "You tried to visit:"
+                                - link "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=h..." [ref=f3e38] [cursor=pointer]:
+                                  - /url: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0803530076129388&output=html&h=280&slotname=4807504606&adk=1320776737&adf=2053824693&pi=t.ma~as.4807504606&w=947&fwrn=4&fwrnh=100&lmt=1760623380&rafmt=1&format=947x280&url=https%3A%2F%2Fwww.grotal.com%2FI%2FChandigarh%2F0&fwr=0&rpe=1&resp_fmts=3&wgl=1&aieuf=1&abgtt=9&dt=1760623377517&bpp=36&bdt=1606&idt=2501&shv=r20251014&mjsv=m202510130101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=947x280%2C947x280&correlator=2313168419806&frm=20&pv=1&u_tz=330&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=2&adx=271&ady=1251&biw=1280&bih=720&scr_x=0&scr_y=0&eid=31095210%2C31095217%2C95373013%2C95373975%2C95374047&oid=2&pvsid=3761521586421170&tmod=1035616489&uas=3&nvt=1&ref=https%3A%2F%2Fwww.grotal.com%2F&fc=896&brdim=130%2C130%2C130%2C130%2C1280%2C0%2C1296%2C759%2C1280%2C720&vis=1&rsz=%7C%7CEebr%7C&abl=CS&pfx=0&fu=128&bc=31&bz=1.01&ifi=3&uci=a!3&btvi=2&fsb=1&dtd=3029
+                            - row [ref=f3e39]:
+                              - cell [ref=f3e40]:
+                                - separator [ref=f3e41]
+                            - 'row "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f3e42]':
+                              - 'cell "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f3e43]':
+                                - 'link "Security Exception If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below. Category: Security Exception Service: CS_Corporate Security Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)." [ref=f3e44] [cursor=pointer]':
+                                  - /url: https://ctsccprod.service-now.com/ss?id=sc_cat_item&sys_id=7d3799fb97c95d104ce8b8d3f153afd8&sysparm_category=b6b879d71b23cd90826d42a6bc4bcb3d?url=https%3a%2f%2fgoogleads%2eg%2edoubleclick%2enet%2fpagead%2fads%3fclient%3dca%2dpub%2d0803530076129388%26output%3dhtml%26h%3d280%26slotname%3d4807504606%26adk%3d1320776737%26adf%3d2053824693%26pi%3dt%2ema%7eas%2e4807504606%26w%3d947%26fwrn%3d4%26fwrnh%3d100%26lmt%3d1760623380%26rafmt%3d1%26format%3d947x280%26url%3dhttps%253A%252F%252Fwww%2egrotal%2ecom%252FI%252FChandigarh%252F0%26fwr%3d0%26rpe%3d1%26resp%5ffmts%3d3%26wgl%3d1%26aieuf%3d1%26abgtt%3d9%26dt%3d1760623377517%26bpp%3d36%26bdt%3d1606%26idt%3d2501%26shv%3dr20251014%26mjsv%3dm202510130101%26ptt%3d9%26saldr%3daa%26abxe%3d1%26cookie%5fenabled%3d1%26eoidce%3d1%26prev%5ffmts%3d947x280%252C947x280%26correlator%3d2313168419806%26frm%3d20%26pv%3d1%26u%5ftz%3d330%26u%5fhis%3d3%26u%5fh%3d720%26u%5fw%3d1280%26u%5fah%3d720%26u%5faw%3d1280%26u%5fcd%3d24%26u%5fsd%3d2%26adx%3d271%26ady%3d1251%26biw%3d1280%26bih%3d720%26scr%5fx%3d0%26scr%5fy%3d0%26eid%3d31095210%252C31095217%252C95373013%252C95373975%252C95374047%26oid%3d2%26pvsid%3d3761521586421170%26tmod%3d1035616489%26uas%3d3%26nvt%3d1%26ref%3dhttps%253A%252F%252Fwww%2egrotal%2ecom%252F%26fc%3d896%26brdim%3d130%252C130%252C130%252C130%252C1280%252C0%252C1296%252C759%252C1280%252C720%26vis%3d1%26rsz%3d%257C%257CEebr%257C%26abl%3dCS%26pfx%3d0%26fu%3d128%26bc%3d31%26bz%3d1%2e01%26ifi%3d3%26uci%3da%213%26btvi%3d2%26fsb%3d1%26dtd%3d3029&referer=https%3a%2f%2fwww%2egrotal%2ecom%2f&reason=Not+allowed+to+browse+Advertising+category&reasoncode=CATEGORY_DENIED&timebound=1&action=deny&kind=&rule=tQ0vDvVdndj1FsTf0sZNn1vrs77W4TnvNdP3BPF&cat=Advertising&user=2438065@cognizant.com&locid=00000000&lang=en_US&zsq=tQ0vDvVdndj1FsTf0sZNn1vrs77W4TnvNdP3BPFzsq
+                                  - generic [ref=f3e45]:
+                                    - heading "Security Exception" [level=2] [ref=f3e46]
+                                    - list [ref=f3e47]:
+                                      - listitem [ref=f3e48]: If you believe you received this message in error, please click here to raise a security exception request by following ServiceNow Categories mentioned below.
+                                      - listitem [ref=f3e49]: "Category: Security Exception"
+                                      - listitem [ref=f3e50]: "Service: CS_Corporate Security"
+                                      - listitem [ref=f3e51]: "Service Offering: CS_NW exceptions_Unblock specific URLs (proxy)."
+                            - row "See our internet use policy." [ref=f3e52]:
+                              - cell "See our internet use policy." [ref=f3e53]:
+                                - link "See our internet use policy." [ref=f3e54] [cursor=pointer]:
+                                  - /url: https://cognizantonline.sharepoint.com/:b:/r/sites/CorporateFunctions/Shared%20Documents/Legal%20Folder/Global%20Corporate%20Policies/Global%20Policies/aup-policy.pdf?csf=1&web=1&e=2sejbq
+                            - row "Need help? Contact our support team at noreply@cognizant.com" [ref=f3e55]:
+                              - cell "Need help? Contact our support team at noreply@cognizant.com" [ref=f3e56]:
+                                - text: Need help? Contact our support team at
+                                - link "noreply@cognizant.com" [ref=f3e57] [cursor=pointer]:
+                                  - /url: mailto:noreply@cognizant.com
+                            - row
+        - generic [ref=e104]:
+          - heading "Comment" [level=2] [ref=e105]
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - generic [ref=e109]: Well Chandigarh seems to be very happening city. Great info Grotal.... .. .
+              - generic [ref=e110]: Ankur
+            - generic [ref=e111]:
+              - generic [ref=e112]: Hi Team, First of All i would like to say that its very great work you DONE. Could you plz update this section sector wise so that we can enjoy more. --Thanks Jatinder Jain
+              - generic [ref=e113]: Jatinder Jain
+            - generic [ref=e114]:
+              - generic [ref=e115]: We have got a client base of 17000 from Grotal.com Thanks Grotal Keep it up.....!
+              - generic [ref=e116]: The Ultimate Tolet services
+            - generic [ref=e117]:
+              - generic [ref=e118]: Chandigarh is one of the most beautiful city in india and a good shooping destination too.well what can I say about sector 17 its really amazing and sector 22 shastri market was there.I really enjoy the hole Chandigarh and can't express in words waht I feel,its truely wwoowwww :)
+              - generic [ref=e119]: noor Ali
+            - generic [ref=e120]:
+              - generic [ref=e121]: Nice and Perfectly written. You just complete whole chandigarh with in one paragraph. Mind blowing Grotal. And Thanks for your services.
+              - generic [ref=e122]: Bodh Raj Thakur
+            - generic [ref=e123]:
+              - generic [ref=e124]: chandigarh is one of the most beautiful city in india. Not beautiful but secure also.
+              - generic [ref=e125]: sanjeev
+            - generic [ref=e126]:
+              - generic [ref=e127]: Traffic Rules are very good in Chandigarh.
+              - generic [ref=e128]: Sarbestos Brakes
+            - generic [ref=e129]:
+              - generic [ref=e130]: Traffic rules are very good in Chandigarh.
+              - generic [ref=e131]: Eagle Industries
+            - generic [ref=e132]:
+              - generic [ref=e133]: Nice place for live peacefully and for business also.
+              - generic [ref=e134]: webarox
+            - generic [ref=e135]:
+              - generic [ref=e136]: "Get astrology solution please contact Sonu Sharma Ji, mobile: 91-7725979246 Email: astrologyhelplineworldwide@gmail.com, Website: http://astrologyhelplineworldwide.com/."
+              - generic [ref=e137]: Sonu Sharma
+            - generic [ref=e138]:
+              - generic [ref=e139]: Chandigarh is the nice place and beautiful city in India. The main motive of this place secures for all Indians. May be possible so please add me in your list because I am providing a good idea and guides for tour and Travel services in India more visit here http://www.enfieldtoursindia.com/.
+              - generic [ref=e140]: seeboo
+            - generic [ref=e141]:
+              - generic [ref=e142]: how can I put up ads in your site https://address-search.co.uk
+              - generic [ref=e143]: william
+            - generic [ref=e144]:
+              - generic [ref=e145]: A to Z process for you from packing to loading to transportation to unloading at your final place so that this process becomes hassle-free and cozier for you.
+              - generic [ref=e146]: Packers and Movers Chandigarh
+        - iframe [active] [ref=e148]:
+          - generic [ref=f4e5]:
+            - heading "Write Comment" [level=2] [ref=f4e6]
+            - generic [ref=f4e8]:
+              - generic [ref=f4e9]: Name*
+              - textbox [ref=f4e11]: Priya Sharma
+              - generic [ref=f4e13]: Comment*
+              - textbox [ref=f4e15]: Exploring Chandigarh was a delightful experience. The city’s layout is impressive and the public spaces are clean and inviting. I especially enjoyed the cultural spots and peaceful atmosphere.
+              - generic [ref=f4e18]:
+                - button "Submit" [ref=f4e19]
+                - button "Clear" [ref=f4e20]
+              - generic [ref=f4e22]:
+                - heading "Please login to post your comment" [level=4] [ref=f4e24]
+                - table [ref=f4e26]:
+                  - rowgroup [ref=f4e27]:
+                    - row "Invalid Email address or password." [ref=f4e28]:
+                      - cell "Invalid Email address or password." [ref=f4e29]
+                - generic [ref=f4e30]:
+                  - generic [ref=f4e31]: Email
+                  - textbox [ref=f4e32]: priya.sharma@mail.com
+                - generic [ref=f4e33]:
+                  - generic [ref=f4e34]: Password
+                  - textbox [ref=f4e35]: testpass789
+                - generic [ref=f4e36]:
+                  - button "Login" [active] [ref=f4e38] [cursor=pointer]
+                  - button "Signup" [ref=f4e39] [cursor=pointer]
+                  - button "Close" [ref=f4e40] [cursor=pointer]
+  - contentinfo [ref=e149]:
+    - generic [ref=e150]:
+      - text: © 2025 Grotal –
+      - link "About Us" [ref=e151]:
+        - /url: https://www.grotal.com/staticpages/AboutUs.aspx
+      - link "Management Team" [ref=e152]:
+        - /url: https://www.grotal.com/management/ManagementTeam.aspx
+      - link "Services" [ref=e153]:
+        - /url: https://www.grotal.com/staticpages/services.aspx
+      - link "Privacy Policy" [ref=e154]:
+        - /url: https://www.grotal.com/staticpages/PrivacyPolicy.aspx
+      - link "Contact Us" [ref=e155]:
+        - /url: https://www.grotal.com/staticpages/contact.aspx
+      - link "Terms and conditions" [ref=e156]:
+        - /url: https://www.grotal.com/staticpages/termCondition.aspx
+      - link "Refund Policy" [ref=e157]:
+        - /url: https://www.grotal.com/staticpages/RefundPolicy.aspx
+      - link "Disclaimer" [ref=e158]:
+        - /url: https://www.grotal.com/staticpages/Disclaimer.aspx
+      - link "Price List" [ref=e159]:
+        - /url: https://www.grotal.com/staticpages/PriceList.aspx
+      - link "Facebook" [ref=e160]:
+        - /url: https://www.facebook.com/Grotal/
+      - link "Twitter" [ref=e161]:
+        - /url: https://twitter.com/GrotalIndia
+      - link "LinkedIn" [ref=e162]:
+        - /url: https://www.linkedin.com/company/grotalindia
+  - generic: https://www.grotal.com/I/AddComment.aspx?CityId=1&CityName=Chandigarh&TopicId=7
+```

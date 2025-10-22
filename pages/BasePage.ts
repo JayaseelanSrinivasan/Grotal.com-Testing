@@ -1,15 +1,10 @@
-import { Page, Locator, expect } from '@playwright/test';
+import { Page,  expect } from '@playwright/test';
 
 export class BasePage {
   protected page: Page;
 
   constructor(page: Page) {
     this.page = page;
-  }
-
-  
-  async navigate(url: string): Promise<void> {
-    await this.page.goto(url);
   }
 
   
@@ -43,12 +38,4 @@ export class BasePage {
   }
 
   
-  async screenshot(path: string): Promise<void> {
-    await this.page.screenshot({ path, fullPage: true });
-  }
-
-  
-  getLocator(selector: string): Locator {
-    return this.page.locator(selector);
-  }
 }

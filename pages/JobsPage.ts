@@ -9,17 +9,17 @@ export class JobsPage extends BasePage {
 
   async openResearchOfficerPDF(): Promise<void> {
     await this.page.goto('https://www.grotal.com/');
-    await this.page.locator(locators.jobs.headerIcon).click();
+    await this.click(locators.jobs.headerIcon);
 
     const jobsPopup = this.page.waitForEvent('popup');
-    await this.page.getByRole('link', { name: 'Jobs/Results' }).click();
+    await this.page.getByRole('link', { name: locators.jobs.Jobs }).click();
     const jobsPage = await jobsPopup;
 
     const pdfPopup = jobsPage.waitForEvent('popup');
     await jobsPage.getByRole('link', {
-      name: 'Jobs for The Post of Research Officer Pathology in Central Council for Research'
+      name: locators.jobs.PDF
     }).click();
-    const pdfPage = await pdfPopup;
+     const pdfPage = await pdfPopup;
 
     console.log(' PDF view opened successfully');
   }

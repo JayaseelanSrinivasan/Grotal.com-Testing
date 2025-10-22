@@ -5,7 +5,6 @@ import { GymPage } from '../pages/GymPage';
 import { ToursPage } from '../pages/ToursPage';
 import { CourierPage } from '../pages/CourierPage';
 import { AdvertisePage } from '../pages/AdvertisePage';
-import { EducationPage } from '../pages/EducationPage';
 import { ExplorePage } from '../pages/ExplorePage';
 import { JobsPage } from '../pages/JobsPage';
 import { ServicesPage } from '../pages/ServicesPage';
@@ -17,7 +16,6 @@ export class PageFixture {
   readonly tours: ToursPage;
   readonly courier: CourierPage;
   readonly advertise: AdvertisePage;
-  readonly education: EducationPage;
   readonly explore: ExplorePage;
   readonly jobs: JobsPage;
   readonly services: ServicesPage;
@@ -29,7 +27,6 @@ export class PageFixture {
     this.tours = new ToursPage(page);
     this.courier = new CourierPage(page);
     this.advertise = new AdvertisePage(page);
-    this.education = new EducationPage(page);
     this.explore = new ExplorePage(page);
     this.jobs = new JobsPage(page);
     this.services = new ServicesPage(page);

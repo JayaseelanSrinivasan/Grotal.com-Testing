@@ -1,0 +1,293 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - navigation [ref=e8]:
+    - link "Home" [ref=e9] [cursor=pointer]:
+      - /url: https://www.grotal.com/
+    - link "Education" [ref=e10] [cursor=pointer]:
+      - /url: https://www.grotal.com/Education
+    - link "Tolet" [ref=e11] [cursor=pointer]:
+      - /url: https://www.grotal.com/Chandigarh/ToLet-C1A0T1P1
+    - link "Classifieds" [ref=e12] [cursor=pointer]:
+      - /url: https://www.grotal.com/Grotal-Classified-Ad-Delhi-S1
+    - link "Blogs" [ref=e13] [cursor=pointer]:
+      - /url: https://www.grotal.com/Blog/
+    - link "Jobs/Results" [ref=e14] [cursor=pointer]:
+      - /url: https://www.grotal.com/ExamResults.aspx
+    - link "Health" [ref=e15] [cursor=pointer]:
+      - /url: javascript:void(0);
+    - link "Explore Chandigarh" [ref=e16] [cursor=pointer]:
+      - /url: https://www.grotal.com/I/Chandigarh/0
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e23]:
+        - button "Grotal logo" [ref=e28] [cursor=pointer]:
+          - img "Grotal logo" [ref=e29]
+        - list [ref=e32]:
+          - listitem
+          - listitem [ref=e33]:
+            - link "Login/SignUp" [ref=e34] [cursor=pointer]:
+              - /url: https://www.grotal.com/UserAccount/UserLogin.aspx
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]: 
+          - textbox [ref=e40]: Select City
+        - textbox [ref=e42]: Any Area
+        - textbox [ref=e46]: Search by Business Name, Product Name or Service
+        - button "Search" [ref=e49] [cursor=pointer]
+      - generic [ref=e52]:
+        - list [ref=e54]:
+          - listitem "page 1" [ref=e55] [cursor=pointer]
+          - listitem "page 2" [ref=e56] [cursor=pointer]
+          - listitem "page 3" [ref=e57] [cursor=pointer]
+        - listbox [ref=e58]:
+          - text:  
+          - generic [ref=e59]:
+            - img "banner" [ref=e60]
+            - generic [ref=e62]:
+              - heading "Top 10 Educational Institutes" [level=1] [ref=e63]:
+                - text: Top 10
+                - generic [ref=e64]: Educational Institutes
+              - generic [ref=e66] [cursor=pointer]:
+                - text: View All
+                - generic [ref=e67]: 
+      - generic [ref=e68]:
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - heading "Top Business Categories" [level=2] [ref=e73]
+            - paragraph [ref=e74]: Looking for a service? Discover the top ten most popular service providers in your city, vetted and selected by our dedicated team of analysts based on feedback gathered from users like you!
+          - generic [ref=e75]:
+            - generic [ref=e76] [cursor=pointer]:
+              - img "category" [ref=e78]
+              - heading "Tours and Travels" [level=4] [ref=e79]
+            - text: "> > > > >"
+            - generic [ref=e80] [cursor=pointer]:
+              - img "category" [ref=e82]
+              - heading "Astrologers" [level=4] [ref=e83]
+            - text: "> > > > > > > > >"
+            - generic [ref=e84] [cursor=pointer]:
+              - img "category" [ref=e86]
+              - heading "Training Institutes" [level=4] [ref=e87]
+            - text: "> > > > > > > > > >"
+            - generic [ref=e88] [cursor=pointer]:
+              - img "category" [ref=e90]
+              - heading "Packers and Movers" [level=4] [ref=e91]
+            - text: "> > > > > > > > >"
+            - generic [ref=e92] [cursor=pointer]:
+              - img "category" [ref=e94]
+              - heading "Interior Services" [level=4] [ref=e95]
+            - text: "> > > > > > > > > >"
+            - generic [ref=e96] [cursor=pointer]:
+              - img "category" [ref=e98]
+              - heading "Event Management" [level=4] [ref=e99]
+            - text: "> > > > > > > > >"
+            - generic [ref=e100] [cursor=pointer]:
+              - img "category" [ref=e102]
+              - heading "Real Estate" [level=4] [ref=e103]
+            - text: "> > > > >"
+            - generic [ref=e104] [cursor=pointer]:
+              - img "category" [ref=e106]
+              - heading "Service And Repair Centers" [level=4] [ref=e107]
+            - text: "> > > > > > > > > >"
+            - generic [ref=e108] [cursor=pointer]:
+              - img "category" [ref=e110]
+              - heading "IT Companies" [level=4] [ref=e111]
+            - text: "> > > > > > >"
+            - generic [ref=e112] [cursor=pointer]:
+              - img "category" [ref=e114]
+              - heading "Wedding Services" [level=4] [ref=e115]
+            - text: "> > > > > > > > >"
+            - generic [ref=e116] [cursor=pointer]:
+              - img "category" [ref=e118]
+              - heading "Health and Fitness" [level=4] [ref=e119]
+            - text: "> > > > > > >"
+            - generic [ref=e120] [cursor=pointer]:
+              - img "category" [ref=e122]
+              - heading "Hotels And Restaurant" [level=4] [ref=e123]
+            - text: "> > > > > > > > >"
+            - generic [ref=e124] [cursor=pointer]:
+              - img "category" [ref=e126]
+              - heading "Hospitals" [level=4] [ref=e127]
+            - text: "> > > > > > > > >"
+            - generic [ref=e128] [cursor=pointer]:
+              - img "category" [ref=e130]
+              - heading "Manufacturers and Dealers" [level=4] [ref=e131]
+            - text: "> > > > > > > > >"
+            - generic [ref=e132] [cursor=pointer]:
+              - img "category" [ref=e134]
+              - heading "Doctors" [level=4] [ref=e135]
+            - text: "> > > > > > > >"
+            - generic [ref=e136] [cursor=pointer]:
+              - img "category" [ref=e138]
+              - heading "Courier Services" [level=4] [ref=e139]
+            - text: "> > > > >"
+            - generic [ref=e140] [cursor=pointer]:
+              - img "category" [ref=e142]
+              - heading "Immigration" [level=4] [ref=e143]
+            - text: "> > > > >"
+            - generic [ref=e144] [cursor=pointer]:
+              - img "category" [ref=e146]
+              - heading "Placement Consultants" [level=4] [ref=e147]
+            - text: "> > > > >"
+            - generic [ref=e148] [cursor=pointer]:
+              - img "category" [ref=e150]
+              - heading "Pharmaceuticals Manufacturer" [level=4] [ref=e151]
+            - text: "> > > > >"
+            - generic [ref=e152] [cursor=pointer]:
+              - img "category" [ref=e154]
+              - heading "Daily Needs" [level=4] [ref=e155]
+            - text: "> > > > >"
+        - generic [ref=e157]:
+          - generic [ref=e158]:
+            - heading "Why Businesses Trust Grotal" [level=2] [ref=e159]
+            - paragraph [ref=e160]: We value trust above everything else. It is our constant endeavor to provide the most well researched listings to consumers and to showcase the most popular product or service categories to provide more inquiries and sales to our business users.
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - img "verified reviews" [ref=e163]
+              - heading "Verified Reviews" [level=3] [ref=e164]
+              - heading "1,00,000+" [level=6] [ref=e165]
+              - paragraph [ref=e166]: Get honest reviews and in-detailed company listings for wide variety of categories that suits your need.
+            - generic [ref=e167]:
+              - img "verified reviews" [ref=e168]
+              - heading "Business Categories" [level=3] [ref=e169]
+              - heading "200+" [level=6] [ref=e170]
+              - paragraph [ref=e171]: With 200+ business categories, it becomes super easy for you to search the right business according to your needs.
+            - generic [ref=e172]:
+              - img "Customers Served" [ref=e173]
+              - heading "Customers Served" [level=3] [ref=e174]
+              - heading "2,56,000+" [level=6] [ref=e175]
+              - paragraph [ref=e176]: We have been in the business for over 20 years and have served over 2,56,000+ customer inquires during this period.
+            - generic [ref=e177]:
+              - img "verified reviews" [ref=e178]
+              - heading "Get In Touch With the Right Audience" [level=3] [ref=e179]
+              - paragraph [ref=e180]: We help businesses to list their products and services and empower them by extending their customer reach and increasing their ROI.
+        - generic [ref=e182]:
+          - generic [ref=e183]:
+            - heading "Data-Driven Market Insights" [level=2] [ref=e184]
+            - paragraph [ref=e185]: Explore the trends concerning the latest business categories with our broad selection of blogs.
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - link "Unlocking Sakshi May 09 Unlocking the Secrets of Your Birth Chart Understanding Astrological Significance" [ref=e188] [cursor=pointer]:
+                - /url: https://www.grotal.com/Blog/Unlocking-the-Secrets-of-Your-Birth-Chart-Understanding-Astrological-Significance-Bby$@
+                - img "Unlocking" [ref=e190]
+                - generic [ref=e191]:
+                  - generic [ref=e192]: Sakshi
+                  - time [ref=e193]: May 09
+                - heading "Unlocking the Secrets of Your Birth Chart Understanding Astrological Significance" [level=3] [ref=e194]
+              - paragraph [ref=e195]: Discovering Your Unique Cosmic Identity and Life's Purpose through Astrology
+              - link "Read More " [ref=e196] [cursor=pointer]:
+                - /url: https://www.grotal.com/Blog/Unlocking-the-Secrets-of-Your-Birth-Chart-Understanding-Astrological-Significance-Bby$@
+                - text: Read More
+                - generic [ref=e197]: 
+            - generic [ref=e198]:
+              - link "The Sakshi March 21 The Evolution of Holi From Ancient Rituals to Modern Celebrations" [ref=e199] [cursor=pointer]:
+                - /url: https://www.grotal.com/Blog/The-Evolution-of-Holi-From-Ancient-Rituals-to-Modern-Celebrations-Bbyyg
+                - img "The" [ref=e201]
+                - generic [ref=e202]:
+                  - generic [ref=e203]: Sakshi
+                  - time [ref=e204]: March 21
+                - heading "The Evolution of Holi From Ancient Rituals to Modern Celebrations" [level=3] [ref=e205]
+              - paragraph [ref=e206]: Understand the symbolic significance of Holi as a celebration of good triumphing over evil and the arrival of spring.
+              - link "Read More " [ref=e207] [cursor=pointer]:
+                - /url: https://www.grotal.com/Blog/The-Evolution-of-Holi-From-Ancient-Rituals-to-Modern-Celebrations-Bbyyg
+                - text: Read More
+                - generic [ref=e208]: 
+            - generic [ref=e209]:
+              - link "Health Amarjeet Singh January 09 Health And Wellness Resolutions For A Balanced 2024" [ref=e210] [cursor=pointer]:
+                - /url: https://www.grotal.com/Blog/Health-And-Wellness-Resolutions-For-A-Balanced-2024-Bbyyd
+                - img "Health" [ref=e212]
+                - generic [ref=e213]:
+                  - generic [ref=e214]: Amarjeet Singh
+                  - time [ref=e215]: January 09
+                - heading "Health And Wellness Resolutions For A Balanced 2024" [level=3] [ref=e216]
+              - paragraph [ref=e217]: As with any other year, several of us will kick off 2023 by making New Year’s resolutions to become stronger, healthier, and fitter.
+              - link "Read More " [ref=e218] [cursor=pointer]:
+                - /url: https://www.grotal.com/Blog/Health-And-Wellness-Resolutions-For-A-Balanced-2024-Bbyyd
+                - text: Read More
+                - generic [ref=e219]: 
+            - generic [ref=e220]:
+              - link "How Dimple Kumar 11/7/2023 11:23:20 AM How To Celebrate Diwali In An Effective Way" [ref=e221] [cursor=pointer]:
+                - /url: https://www.grotal.com/Blog/How-To-Celebrate-Diwali-In-An-Effective-Way-Bbyyj
+                - img "How" [ref=e223]
+                - generic [ref=e224]:
+                  - generic [ref=e225]: Dimple Kumar
+                  - time [ref=e226]: 11/7/2023 11:23:20 AM
+                - heading "How To Celebrate Diwali In An Effective Way" [level=3] [ref=e227]
+              - paragraph [ref=e228]: Diwali, also known as Deepavali, is a significant and widely celebrated festival in India and by people of Indian origin around the world.
+              - link "Read More " [ref=e229] [cursor=pointer]:
+                - /url: https://www.grotal.com/Blog/How-To-Celebrate-Diwali-In-An-Effective-Way-Bbyyj
+                - text: Read More
+                - generic [ref=e230]: 
+          - link "View All " [ref=e232] [cursor=pointer]:
+            - /url: https://www.grotal.com/Blog/
+            - text: View All
+            - generic [ref=e233]: 
+        - generic [ref=e235]:
+          - generic [ref=e236]:
+            - generic [ref=e237]:
+              - heading "Explore" [level=5] [ref=e238]
+              - navigation [ref=e239]:
+                - link "Education" [ref=e240] [cursor=pointer]:
+                  - /url: https://www.grotal.com/e
+                - link "To-let" [ref=e241] [cursor=pointer]:
+                  - /url: https://www.grotal.com/Chandigarh/ToLet-C1A0T1P1
+                - link "Classified" [ref=e242] [cursor=pointer]:
+                  - /url: https://www.grotal.com/Grotal-Classified-Ad-Delhi-S1
+                - link "Blog" [ref=e243] [cursor=pointer]:
+                  - /url: https://www.grotal.com/Blog/
+            - generic [ref=e244]:
+              - heading "About Us" [level=5] [ref=e245]
+              - navigation [ref=e246]:
+                - link "About Grotal" [ref=e247] [cursor=pointer]:
+                  - /url: https://www.grotal.com/staticpages/AboutUs.aspx
+                - link "Management Team" [ref=e248] [cursor=pointer]:
+                  - /url: https://www.grotal.com/management/ManagementTeam.aspx
+                - link "Services" [ref=e249] [cursor=pointer]:
+                  - /url: https://www.grotal.com/staticpages/services.aspx
+            - generic [ref=e250]:
+              - heading "Important Links" [level=5] [ref=e251]
+              - navigation [ref=e252]:
+                - link "Terms and Condition" [ref=e253] [cursor=pointer]:
+                  - /url: https://www.grotal.com/staticpages/termCondition.aspx
+                - link "Privacy Policy" [ref=e254] [cursor=pointer]:
+                  - /url: https://www.grotal.com/staticpages/PrivacyPolicy.aspx
+                - link "Disclaimer" [ref=e255] [cursor=pointer]:
+                  - /url: https://www.grotal.com/staticpages/Disclaimer.aspx
+                - link "Price list" [ref=e256] [cursor=pointer]:
+                  - /url: https://www.grotal.com/staticpages/PriceList.aspx
+                - link "Refund Policy" [ref=e257] [cursor=pointer]:
+                  - /url: https://www.grotal.com/staticpages/RefundPolicy.aspx
+                - link "Contact Us" [ref=e258] [cursor=pointer]:
+                  - /url: https://www.grotal.com/staticpages/contact.aspx
+            - generic [ref=e259]:
+              - heading "Helpline Number" [level=5] [ref=e260]
+              - generic [ref=e261]:
+                - generic [ref=e262]: 
+                - link "99 14 1111 22" [ref=e263] [cursor=pointer]:
+                  - /url: tel:99 14 1111 22
+              - heading "Download APP" [level=5] [ref=e264]
+              - generic [ref=e265]:
+                - link [ref=e266] [cursor=pointer]:
+                  - /url: https://apps.apple.com/in/app/grotal/id406132186
+                  - generic [ref=e267]: 
+                - link [ref=e268] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.grotal.seasia&hl=en
+                  - generic [ref=e269]: 
+              - generic [ref=e270]:
+                - link [ref=e271] [cursor=pointer]:
+                  - /url: https://www.facebook.com/Grotal/
+                  - generic [ref=e272]: 
+                - link [ref=e273] [cursor=pointer]:
+                  - /url: https://twitter.com/GrotalIndia/
+                  - generic [ref=e274]: 
+                - link [ref=e275] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/grotalindia
+                  - generic [ref=e276]: 
+          - paragraph [ref=e278]: Copyright © 2025 Grotal
+        - link "" [ref=e280] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e281]: 
+        - link "Add Your Business" [ref=e283] [cursor=pointer]:
+          - /url: https://www.grotal.com/UserAccount/AddProducts.aspx?Log=AddBsns
+```

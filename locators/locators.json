@@ -3,13 +3,15 @@
     "signupLink": "#anchrSgnp",
     "name": "#txtname",
     "email": "#txtemailid",
-    "mobile": "#txtmobile"
+    "mobile": "#txtmobile",
+    "Create":"Create Account"
   },
   "carwash": {
     "cityDropdown": "#txtActCity",
     "cityInput": "#txtCity",
     "searchInput": "#txt_srctxt",
-    "resultsContainer": "#div_main_content > div:nth-child(5)"
+    "resultsContainer": "#div_main_content > div:nth-child(5)",
+    "searchButton":"Search"
   },
   "gym": {
   "fitnessCategory": "xpath=//*[@id='DivCategories']/div[21]",
@@ -21,12 +23,13 @@
   },
   "courier": {
     "categoryXPath": "xpath=//*[@id='DivCategories']/div[31]/h4",
-    "resultRow": ".result-row"
+    "resultRow": ".result-row",
+    "bulk":"Bulk Courier Services"
   },
   "advertise": {
-    "addBusinessLink": "text=Add Your Business",
-    "pdfLink": "text=PDF",
-    "pptLink": "text=PPT"
+    "addBusinessLink": "Add Your Business",
+    "pdfLink": "PDF",
+    "pptLink": "PPT"
   },
   "education": {
     "headerIcon": ".gl-header-con > .gl-header-icon",
@@ -40,10 +43,16 @@
     "nameInput": "#txtName",
     "commentInput": "#txtcomment",
     "emailInput": "#txtEmail",
-    "passwordInput": "#txtPassword"
+    "passwordInput": "#txtPassword",
+    "chandigarh":"Explore Chandigarh",
+    "submit":"Submit",
+    "Login":"Login",
+    "Signup":"Signup"
   },
   "jobs": {
-    "headerIcon": ".gl-header-con > .gl-header-icon"
+    "headerIcon": ".gl-header-con > .gl-header-icon",
+    "Jobs":"Jobs/Results",
+    "PDF":"Jobs for The Post of Research Officer Pathology in Central Council for Research"
   },
   "services": {
     "categoryHeading": "#DivCategories h4"

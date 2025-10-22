@@ -9,7 +9,7 @@ export class ServicesPage extends BasePage {
 
   async countServiceCategories(): Promise<number> {
     await this.page.goto('https://www.grotal.com/');
-    await this.page.waitForSelector(locators.services.categoryHeading);
+    await this.waitFor(locators.services.categoryHeading);
     const count = await this.page.locator(locators.services.categoryHeading).count();
     console.log(`Total service categories listed: ${count}`);
     return count;
